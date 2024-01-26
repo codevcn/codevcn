@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋, I'm Lương Thành Lợi</h2>
-> Web developer and Open-source enthusiast
+<h3 align="center">Web developer and Open-source enthusiast</h3>
 
 I can work on either backend or frontend side, but I prefer frontend. I have experience with React.js, Node.js, Next.js, and Nest.js, but good work in React and Next. Plus, I have worked with Spring Boot Web in some collaboration projects and found it an interesting and effective framework. The projects are available on this GitHub. Besides, I have interests in PHP and its framework Laravel, and Python as well as its framework Django.
 
