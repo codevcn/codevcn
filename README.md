@@ -1,13 +1,13 @@
 <h2 align="center">Hi there 👋, I'm Lương Thành Lợi</h2>
-<h3 align="center">Web developer and Open-source enthusiast</h3>
+<h3 align="center">A web developer and an Open-source enthusiast</h3>
 
-I can work on either backend or frontend side, but I prefer frontend. I have experience with React.js, Node.js, Next.js, and Nest.js, but good work in React and Next. Plus, I have worked with Spring Boot Web in some collaboration projects and found it an interesting and effective framework. The projects are available on this GitHub. Besides, I have interests in PHP and its framework Laravel, and Python as well as its framework Django.
+I can work on either backend or frontend side, but prefer the frontend. I have experience with React.js, Node.js, Next.js, and Nest.js, but good work with React and Next. Plus, I have worked with Spring Boot Web on Java in some collaboration projects and found it an interesting and effective framework. I also have interests in Python as well as its framework Django. Most of things I built are available on this GitHub, not much but enough.
 
-I enjoy coding and building application, feel satisfied with my products. My motto "Don't do it if you have no interest in it, you're just wasting your and other people's time after all".
+I enjoy coding and building application, feel satisfied with my products. My motto "Don't agree to do if you have no interest in it, you're just wasting your and other people's time after all". Hope we can collab, Yah!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codevcn&layout=compact&theme=dark)](https://github.com/codevcn)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Feel free to connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/lthloi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lthloi" height="30" width="40" /></a>
 </p>
