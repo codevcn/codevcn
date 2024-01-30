@@ -3,7 +3,7 @@
 
 I can work on either backend or frontend side, but prefer the frontend. I have experience with React.js, Node.js, Next.js, and Nest.js, but good work with React and Next. Plus, I have worked with Spring Boot Web on Java in some collaboration projects and found it an interesting and effective framework. I also have interests in Python as well as its framework Django. Most of things I built are available on this GitHub, not much but enough.
 
-I enjoy coding and building application, feel satisfied with my products. My motto "Don't agree to do if you have no interest in it, you're just wasting your and other people's time after all". Hope we can collab, Yah!
+I enjoy coding and building application, feel satisfied with my products. My motto "Don't agree to do if you have no interest, you're just wasting your and other people's time after all". Hope we can collab, Yah!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codevcn&layout=compact&theme=dark)](https://github.com/codevcn)
 
