@@ -1,9 +1,9 @@
 <h2 align="center">Hi there 👋, I'm Lương Thành Lợi</h2>
 <h3 align="center">A web developer and an Open-source enthusiast</h3>
 
-I can work on either backend or frontend side, but prefer the frontend. I have experience with React.js, Node.js, Next.js, and Nest.js, but good work with React and Next. Plus, I have worked with Spring Boot Web on Java in some collaboration projects and found it an interesting and effective framework. I also have interests in Python as well as its framework Django. Most of things I built are available on this GitHub, not much but enough.
+I can work on either backend or frontend side, but prefer the frontend. I have a certain experience in using JavaScript and TypeScript with React.js, Express.js, Next.js, and Nest.js, but better with React.js and Next.js than the others. Plus, I have worked with Spring Boot Web using Java in some collaboration projects and found it an interesting and effective framework. I also have interests in Python as well as its framework Django. Most of things I built are available on this GitHub, not much but enough.
 
-I enjoy coding and building application, feel satisfied with my products. My motto "Don't agree to do if you have no interest, you're just wasting your and other people's time after all". Hope we can collab, Yah!
+I enjoy coding and building application, feel satisfied with my works. My motto "Don't agree to do if you have no interest, you're just wasting your and other people's time after all". Hope we can collab, Yah!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codevcn&layout=compact&theme=dark)](https://github.com/codevcn)
 
